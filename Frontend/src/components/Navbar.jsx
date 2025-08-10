@@ -16,8 +16,8 @@ function Navbar() {
 
   const navigation = [
     // { name: "About Me", href: "about" },
-    { name: "Skills", href: "skills" },
     { name: "Education", href: "Resume" },
+    { name: "Skills", href: "skills" },
     { name: "Projects", href: "projects" },
     { name: "Certifications", href: "certifications" },
     { name: "Contact", href: "contact" },

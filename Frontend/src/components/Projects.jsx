@@ -19,7 +19,7 @@ const projectsData = [
     title: "NutriWise",
     description: "NutriWise is a full-stack web application designed to help users make informed dietary choices through personalized nutrition guidance. The platform leverages Google’s Gemini Generative AI to provide real-time feedback, dietary recommendations, and custom meal plans",
     techStack: ["React", "MongoDB", "Nodejs", "OpenAI"],
-    imgSrc: "/public/nutriwise.png",
+    imgSrc: "/nutriwise.png",
     liveLink: "",
     GitHubLink: "https://github.com/SamAbhishek7/NutriWise.git"
   },
@@ -28,7 +28,7 @@ const projectsData = [
     title: "NoteHive",
     description: "NoteHive is a full-stack web application designed to help users make informed dietary choices through personalized nutrition guidance. The platform leverages Google’s Gemini Generative AI to provide real-time feedback, dietary recommendations, and custom meal plans",
     techStack: ["Next.js", "MongoDB", "Nodejs", "Clerk", "OpenAI"],
-    imgSrc: "/public/NoteHive.png",
+    imgSrc: "/NoteHive.png",
     liveLink: "",
     GitHubLink: "https://github.com/SamAbhishek7/NoteHive.git"
   },
